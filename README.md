@@ -37,5 +37,12 @@ International Cooperation:
 Working together to address global challenges like overfishing and pollution. 
 In essence, SDG 14 calls for a global effort to protect the health and sustainability of our oceans for present and future generations. 
 
+**Roles and Responsibilities**
+Requirement gathering (User Researcher) -Sirazun Shaik
+Design and Analyst (Technical Analyst) -Sirazun Shaik
+Development (Programmer) -Sirazun Shaik
+Testing and Quality (Tester) -Sirazun Shaik
+Project and Scrum management (PM) -Sirazun Shaik
+
 
 
